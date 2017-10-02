@@ -1,0 +1,41 @@
+<link rel="stylesheet" href="https://bootswatch.com/cosmo/bootstrap.min.css">
+
+<body>
+  <style>
+    body {
+      padding: 20px;
+    }
+    
+    hr {
+      border: none;
+      background-color: black;
+      height: 1px;
+      margin: 3px 0px 3px 0px;
+    }
+    
+    .flex-col {
+      display: flex;
+      flex-direction: column;
+      padding: 0px 0px 30px 0px;
+    }
+    
+    .flex-row {
+      display: flex;
+      flex-direction: row;
+      padding: 0px;
+    }
+    
+    h4 {
+      font-weight: bold;
+      margin: 3px 0px 3px 0px;
+    }
+    
+    ul {
+      margin: 0px;
+      list-style-type: square;
+    }
+    
+    p {
+      margin: 0px;
+    }
+  </style>
